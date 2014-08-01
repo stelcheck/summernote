@@ -1,0 +1,16 @@
+{
+  "name": "summernote",
+  "description": "Super Simple WYSIWYG Editor on Bootstrap",
+  "dependencies": {
+    "components/bootstrap-default": "3.2.0",
+    "components/font-awesome": "4.1.0"
+  },
+  "scripts": [
+    "dist/summernote.min.js"
+  ],
+  "styles": [
+    "dist/summernote.css",
+    "dist/summernote-bs3.css"
+  ],
+  "main": "dist/summernote.min.js"
+}
